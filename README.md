@@ -47,5 +47,3 @@ Developed an interactive Power BI dashboard to analyze Starbucks beverage produc
 **Naseer Shaik**
 
 Data Scientist | Data Analyst | AI/ML & Generative AI Developer
-
-GitHub: [Naseer-Data](https://github.com/Naseer-Data)
